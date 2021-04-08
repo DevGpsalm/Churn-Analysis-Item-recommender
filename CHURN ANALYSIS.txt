@@ -1,0 +1,9 @@
+CHURN ANALYSIS
+
+MOTIVATION
+This project was done by me while at pairview after my training for practical project experience. 
+I built a recommender, did a churn analysis/predictive model as well as buid a Dashboard using tableau
+
+DATASET
+The project was built using the 1999 Czech bank anonymized data
+
